@@ -2,8 +2,8 @@
 
 Exploration of sample gene expression data for different cancers
 
-To run the notebook, install `pipenv` (`brew install pipenv`) and run in this repo's root directory:
+To run the notebook, install `uv` (`brew install uv`) and run in this repo's root directory:
 
-    pipenv install
+    uv sync
 
-Then open the notebook in vscode (requires Jupyter extension) and choose the IPython kernel in the .venv directory created. 
+Then open the notebook in vscode (requires Jupyter extension) and choose the IPython kernel in the .venv directory created.
